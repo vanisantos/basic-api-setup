@@ -1,0 +1,11 @@
+node_modules/
+dist/
+yarn-error
+.env*
+.env_dev
+.env.homol
+.env.prod
+.env*
+yarn-error.log
+logs/logs-traces*
+logs/logs*
